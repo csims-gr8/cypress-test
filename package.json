@@ -1,0 +1,15 @@
+{
+  "name": "cypress-test-crs",
+  "version": "1.0.0",
+  "description": "* Naming convention - Files must include `spec.js` to show up in Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.4.1"
+  }
+}
